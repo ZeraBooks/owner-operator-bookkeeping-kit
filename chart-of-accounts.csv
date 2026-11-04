@@ -1,0 +1,16 @@
+Number,Name,Type,Start with it,Notes
+1010,Business checking,Asset,Yes,"Settlements in, truck costs out, owner pay out by transfer"
+1200,Escrow receivable,Asset,Yes,"Money the carrier holds back each week. Yours until the lease ends, so never an expense"
+4010,Freight revenue,Income,Yes,"Gross linehaul, fuel surcharge and accessorials from each settlement, before deductions"
+5010,Fuel,Expense,Yes,"Fuel advances on the settlement and fuel you bought yourself. Keep the receipts for IFTA"
+5020,Repairs and tires,Expense,Yes,Shop bills and tires. A new engine or truck is equipment instead
+5030,Insurance,Expense,Yes,"Cargo, liability, bobtail and physical damage, whether deducted or paid direct"
+5040,Truck loan interest,Expense,Yes,Only the interest part of each truck payment. The principal reduces the loan
+5050,Permits and licenses,Expense,Yes,"Plates, IRP, permits and Form 2290 tax when it is paid"
+5060,Tolls,Expense,Yes,Tolls and scale tickets
+5070,Phone and ELD,Expense,Yes,"Phone plan, ELD and load board apps"
+1210,Form 2290 savings,Asset,Add when needed,Weekly set-aside held by the carrier for the heavy vehicle use tax
+1500,Truck and trailer,Asset,Add when needed,Purchase price of the truck. Your accountant works out depreciation
+2010,Business credit card,Liability,Add when needed,One card for the truck. Paying it from checking is a transfer
+2500,Truck loan,Liability,Add when needed,Loan balance. Should match the lender's statement each month
+3010,Owner draws,Equity,Add when needed,What you pay yourself and any personal spending. Never an expense

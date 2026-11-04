@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "Owner-operator bookkeeping kit"
+type: dataset
+authors:
+  - name: "ZeraBooks"
+    website: "https://www.zerabooks.com"
+url: "https://github.com/ZeraBooks/owner-operator-bookkeeping-kit"
+repository-code: "https://github.com/ZeraBooks/owner-operator-bookkeeping-kit"
+license: CC-BY-4.0
+abstract: "An owner-operator should keep books every week: one business bank account, every settlement booked at its gross amount with each deduction as its own expense, fuel receipts kept for IFTA, and the bank account reconciled to its statement each month. From those books you can work out cost per mile, the number that tells you which loads to take."
+keywords:
+  - owner-operator
+  - trucking
+  - bookkeeping
+  - cost-per-mile
+  - chart-of-accounts
+  - small-business
+date-released: 2026-11-04

@@ -1,0 +1,11 @@
+Line,September 2026,Per mile
+Miles driven (ELD),9800,
+Gross settlements,22050.00,"=ROUND(B3/$B$2,3)"
+Fuel,6370.00,"=ROUND(B4/$B$2,3)"
+Insurance,1480.00,"=ROUND(B5/$B$2,3)"
+Maintenance and tires,1150.00,"=ROUND(B6/$B$2,3)"
+Truck loan interest,610.00,"=ROUND(B7/$B$2,3)"
+"Permits, plates and Form 2290 set-aside",420.00,"=ROUND(B8/$B$2,3)"
+ELD and phone,95.00,"=ROUND(B9/$B$2,3)"
+Total cost,=SUM(B4:B9),"=ROUND(B10/$B$2,3)"
+Left before depreciation and owner pay,=B3-B10,"=ROUND(B11/$B$2,3)"
